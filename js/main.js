@@ -27,8 +27,8 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   'Gracias por estar!!!',
 
   'una flor para ti ;)',
-  '¡TE AMOOO!',
-  '¡CON MI SER ❤️!'
+  '¡TE AMOOO CON MI SER ❤️!',
+  '¡💕!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -253,3 +253,4 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
