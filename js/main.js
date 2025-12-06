@@ -22,12 +22,11 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
+  'una flor para ti ;)',
   'Espero te guste',
   'Te amo con mi ser',
   'Gracias por estar!!!',
-
-  'una flor para ti ;)',
-  '¡TE AMOOO CON MI SER ❤️!',
+  '¡ERES UNICA!',
   '¡💕!'
   ];
   
@@ -253,4 +252,5 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
